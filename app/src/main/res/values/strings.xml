@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DAPA Actividad 5</string>
+    <string name="switch_1">LG 27GN800-B Ultragear Monitor</string>
+    <string name="switch_2">SAMSUNG Watch 6 40mm Grafito</string>
+    <string name="switch_3">FIFINE Juego de Micrófono XLR/USB</string>
+    <string name="switch_4">Consola PlayStation 5 Slim</string>
+    <string name="switch_5">Focusrite Scarlett 2i2 Interfaz de Audio</string>
+</resources>
